@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Simplified MSP OOD Detection using MMSegmentation
-Bypasses DataContainer issues by using direct model inference
+MSP OOD Detection using MMSegmentation
 """
 import time
 import torch
@@ -401,4 +400,5 @@ def main():
         traceback.print_exc()
 
 if __name__ == "__main__":
+
     main()
