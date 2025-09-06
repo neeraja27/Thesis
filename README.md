@@ -2,3 +2,8 @@
 Segmentation Models"
 
 "The DeepLabV3+ model checkpoints and configurations are sourced from " https://github.com/open-mmlab/mmsegmentation/tree/main/mmseg" 
+
+Dataset links
+1. Cityscape: https://www.cityscapes-dataset.com/
+2. SMIYC-OT: https://segmentmeifyoucan.com/datasets
+3. LOST AND FOUND: https://wwwlehre.dhbw-stuttgart.de/~sgehrig/lostAndFoundDataset/index.html 
